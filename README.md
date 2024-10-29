@@ -1,8 +1,8 @@
 # Shortest-Path-Algorithm
 
-freeCodeCamp Practice Project
+freeCodeCamp Practice Project.
 
-Scientific Computing with Python 
+Scientific Computing with Python.
 
 
 Algorithms are step-by-step procedures that developers use to perform calculations and solve computational problems.
