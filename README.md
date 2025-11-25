@@ -1,4 +1,4 @@
-# Shortest-Path-Algorithm 
+# Shortest-Path-Algorithm
 
 freeCodeCamp Practice Project.
 
